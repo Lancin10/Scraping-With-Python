@@ -2,26 +2,25 @@
 
 ## Installation
 
-Sur le terminal se placer sur un dossier cible.
+On the terminal go to a target folder.
 
-Puis suivre les étapes suivantes :
-1. Cloner le dépôt ici présent en tapant: `$ git clone https://github.com/S0Imyr/Projet2.git`
-2. Accéder au dossier ainsi créé avec la commande : `$ cd Projet2`
-3. Créer un environnement virtuel pour le projet avec `$ python -m venv env` sous windows ou `$ python3 -m venv env` sous macos ou linux.
-4. Activez l'environnement virtuel avec `$ source env/Scripts/activate` sous windows ou `$ source env/bin/activate` sous MacOS ou Linux.
-5. Installez les dépendances du projet avec la commande `$ pip install -r requirements.txt`
+Then follow these steps:
+1. Clone the repository here by typing: `$ git clone https://github.com/S0Imyr/Projet2.git`
+2. Access the folder thus created with the command: `$ cd Project2`
+3. Create a virtual environment for the project with `$python -m venv env` on windows or `$python3 -m venv env` on macos or linux.
+4. Activate the virtual environment with `$source env/Scripts/activate` on windows or `$source env/bin/activate` on MacOS or Linux.
+5. Install project dependencies with command `$ pip install -r requirements.
 
-## Exécution
+## Running
 
-6. Exécuter le script en tapant : `$ python main.py`
-7. Les fichiers csv se créent.
-8. Le téléchargement des images se lancent après.
+6. Run the script by typing: `$ python main.py`
+7. The csv files are created.
+8. The downloading of the images starts afterwards.
 
-## Données
+## Data
 
-Dans le dossier Projet2, créé lors de la copie initiale, on retrouve un dossier Data.
-Le fichier Data contient un dossier par catégorie.
-Chaque fichier "catégorie" contient :
- - un fichier csv au nom de la catégorie</li>
- - un dossier images avec les images de tous les livres de la "catégorie".</li>
-
+In the Project2 folder, created during the initial copy, there is a Data folder.
+The Data file contains one folder per category.
+Each "category" file contains:
+ - A csv file with the name of the category</li>
+ - An images folder with the images of all the books in the "category".</li>
