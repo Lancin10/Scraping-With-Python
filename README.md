@@ -1,4 +1,4 @@
-# Projet 2
+# Scraping project
 
 ## Installation
 
@@ -19,7 +19,7 @@ Then follow these steps:
 
 ## Data
 
-In the Project2 folder, created during the initial copy, there is a Data folder.
+In the Project folder, created during the initial copy, there is a Data folder.
 The Data file contains one folder per category.
 Each "category" file contains:
  - A csv file with the name of the category</li>
